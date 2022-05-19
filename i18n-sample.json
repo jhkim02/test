@@ -1,0 +1,46 @@
+{
+  "@contact-to-sales": {
+    "ko": "영업팀에 문의하기",
+    "en": "Talk to Sales Team"
+  },
+  "@contact-to-sales-sub": {
+    "ko": "Enterprise 요금제에 관해 궁금하신 점이 있으신가요?",
+    "en": "Have any questions about the Enterprise plan?"
+  },
+  "@company-name": {
+    "ko": "업체명",
+    "en": "Company Name"
+  },
+  "@member-count": {
+    "ko": "멤버 수",
+    "en": "Member Count"
+  },
+  "@admin-name": {
+    "ko": "담당자명",
+    "en": "Admin Name"
+  },
+  "@admin-email": {
+    "ko": "담당자 이메일",
+    "en": "Admin Email"
+  },
+  "@admin-mobile": {
+    "ko": "담당자 연락처",
+    "en": "Admin Phone Number"
+  },
+  "@contact-type": {
+    "ko": "문의사항",
+    "en": "Contact Type"
+  },
+  "@contact-detail-placeholder": {
+    "ko": "자세한 문의 내용을 작성해주세요.",
+    "en": "Please fill out the details of your inquiry."
+  },
+  "@btn-contact": {
+    "ko": "문의하기",
+    "en": "Submit"
+  },
+  "@label-workspace": {
+    "ko": "워크스페이스",
+    "en": "Workspace"
+  }
+}
